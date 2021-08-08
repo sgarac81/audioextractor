@@ -1,0 +1,15 @@
+{
+    "name": "Audio Extractor",
+    "description": "audio extractor using ffmpeg",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Sassoun Garac"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}

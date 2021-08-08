@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
+    <id>audioextractor</id>
+    <name>Audio Extractor</name>
+    <summary>audio extractor using ffmpeg within the web interface</summary>
+    <description><![CDATA[Audio extractor from video files in mp3 within the web interface requires ffmpeg]]></description>
+    <version>0.0.1</version>
+    <licence>agpl</licence>
+    <author mail="sgarac@gmail.com" >Sassoun Garac</author>
+    <namespace>Audioextractor</namespace>
+    <category>multimedia</category>
+    <category>tools</category>
+    <bugs>https://github.com/sgarac81/audioextractor</bugs>
+    <dependencies>
+        <nextcloud min-version="13" max-version="22"/>
+    </dependencies>
+</info>
